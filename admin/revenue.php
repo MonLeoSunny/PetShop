@@ -91,8 +91,8 @@
                       <thead>
                           <tr>
                               <th class="addfont" style="width: 100px">STT</th>
-                              <th class="addfont" style="width: 500px" >Họ Tên</th>
-                              <th class="addfont" style="width: 400px" >Tài Khoản (Email)</th>
+                              <th class="addfont" style="width: 500px">Họ Tên</th>
+                              <th class="addfont" style="width: 400px">Tài Khoản (Email)</th>
                               <th class="addfont" style="width: 300px">Loại Tài Khoản</th>
                               <th class="addfont" style="width: 300px">Số Đơn Đã Mua</th>
                               <th class="addfont" style="width: 300px">Tổng Tiền</th>

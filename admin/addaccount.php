@@ -53,6 +53,7 @@
                         <select required name="phanquyen" id="input" class="form-control text-light">
                             <option value="1">Admin</option>
                             <option value="0">Khách hàng</option>
+                            <option value="0">Khách hàng</option>
                         </select>
                       </div>
                       <button type="submit" name="them" class="btn btn-primary mr-2">Thêm Tài Khoản</button>
